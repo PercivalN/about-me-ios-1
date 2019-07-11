@@ -2,4 +2,4 @@
 
 This is a an iOS app all about me.
 
-My name is: Ben.
+My name is: Percy.
